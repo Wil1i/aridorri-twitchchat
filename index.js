@@ -58,7 +58,7 @@ const client = new tmi.Client({
     reconnect: true,
   },
 
-  channels: ["amir_right"],
+  channels: ["aridorri"],
 });
 client.connect();
 
